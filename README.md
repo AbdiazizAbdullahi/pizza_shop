@@ -3,6 +3,10 @@
 ## Description
 This is a 'mini' Rails application that implements associations. It is an API for tracking pizza restaurants that allows users to create, read, update, and delete restaurants, pizzas, and restaurant pizzas. It features three resources and adheres to certain guidelines such as implementing specific routes and returning JSON data in a specific format.
 
+## Project repo
+- You can access this project at the following Github link; 
+    `https://github.com/AbdiazizAbdullahi/pizza_shop.git`
+
 ## Getting Started
 To get started, please follow the instructions below:
 
